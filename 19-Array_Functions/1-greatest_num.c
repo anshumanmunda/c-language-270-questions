@@ -33,3 +33,5 @@ int greatest_number(int a[],int n) {
   }
   return max_index;  
 }
+
+// completed

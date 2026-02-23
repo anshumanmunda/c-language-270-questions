@@ -20,3 +20,4 @@ void length_of_string(char* str){
   for( i=0; str[i]; i++);
     printf("Length  = %d",i-1);
 }
+// completed

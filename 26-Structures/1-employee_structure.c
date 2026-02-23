@@ -6,3 +6,5 @@ struct Employee{
   char name[100];
   float salary;
 };
+
+// completed

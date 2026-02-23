@@ -23,3 +23,4 @@ int lcm(int a, int b)
   }
 
 }
+// completed
