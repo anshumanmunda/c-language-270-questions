@@ -10,3 +10,5 @@ int main ()
 
   printf((n>=100 && n<=999)?"3-digit no":"Not 3-digit no");
 }
+
+// completed
