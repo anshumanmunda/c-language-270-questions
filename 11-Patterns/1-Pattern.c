@@ -24,4 +24,7 @@ int main()
     printf("\n");
   }
 
+
 }
+
+// completed
