@@ -25,8 +25,6 @@ This repository contains a comprehensive collection of over **270 programming ch
 These solutions are the result of consistent practice over a long period. 
 > **Note on Migration:** While the logic was developed previously, this repository serves as a professional migration to **GitHub**. I am utilizing this project to implement **Git Version Control** standards, focusing on modularity and clean commit history.
 
-
-
 ## 🎯 Technical Standardization
 * **Memory Safety:** Implementation of `free()` for all dynamically allocated memory.
 * **VCS Strategy:** Using atomic commits to track the migration and updates of each module.
